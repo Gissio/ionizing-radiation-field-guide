@@ -276,7 +276,7 @@ Surviving a nuclear strike requires quick action to minimize exposure to radiati
 
 ## Experiments
 
-**WARNING:** The authors of Rad Pro are not responsible or liable for any claims, damages, losses, expenses, costs, or liabilities whatsoever resulting or arising directly or indirectly from performing these experiments.
+**WARNING:** The authors of the ionizing radiation field guide are not responsible or liable for any claims, damages, losses, expenses, costs, or liabilities whatsoever resulting or arising directly or indirectly from performing these experiments.
 
 ### Background radiation mapping
 
